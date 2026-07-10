@@ -1,0 +1,16 @@
+coupon_code,coupon_name,discount_type,discount_value,min_order_amount,max_uses,total_used,expiry_date,active
+WELCOME10,Welcome Offer,Percentage,10,200,500,310,2026-10-26,Y
+GYM20,Gym Partner Discount,Percentage,20,300,300,59,2026-07-14,Y
+FIRST50,First Order Flat Off,Flat Amount,50,250,400,295,2026-08-25,Y
+WEEKEND15,Weekend Special,Percentage,15,200,600,45,2026-08-16,Y
+NEWYEAR100,New Year Offer,Flat Amount,100,500,200,0,2026-11-12,Y
+PROTEIN25,Protein Week Special,Percentage,25,400,150,137,2026-11-02,Y
+FLAT75,Flat 75 Off,Flat Amount,75,350,250,240,2026-12-08,Y
+SUMMER10,Summer Fitness Offer,Percentage,10,200,500,343,2026-07-24,Y
+BULK150,Bulk Order Discount,Flat Amount,150,800,100,55,2026-09-19,Y
+REFER20,Referral Reward,Percentage,20,250,300,169,2026-05-02,N
+MONTHLY200,Monthly Plan Offer,Flat Amount,200,1000,100,84,2026-08-16,Y
+FLASH30,Flash Sale,Percentage,30,300,150,76,2026-10-03,Y
+LOYALTY50,Loyalty Reward,Flat Amount,50,200,400,341,2026-07-14,Y
+FESTIVE15,Festive Special,Percentage,15,250,350,206,2026-08-12,Y
+EXPIRED5,Old Test Coupon,Percentage,5,100,50,44,2026-06-08,N

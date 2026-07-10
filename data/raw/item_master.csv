@@ -1,0 +1,36 @@
+item_id,item_name,item_category,food_category,contents,weight_grams,calories,proteins_g,carbs_g,fats_g,fiber_g,cost_price,selling_price,discount_price,stock_availability,is_featured
+1,Grilled Chicken Power Bowl,Bowl,Non-Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",236.69,345.6,43.1,39.2,14.1,4.0,100.98,185.76,,Y,Y
+2,Paneer Tikka Protein Bowl,Bowl,Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",319.37,305.7,29.0,33.1,15.5,6.4,149.23,273.33,,Y,Y
+3,Egg White Veggie Bowl,Bowl,Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",234.36,303.6,30.8,40.9,12.5,6.2,69.7,160.54,,Y,Y
+4,Tandoori Chicken Quinoa Bowl,Bowl,Non-Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",388.6,328.8,39.6,23.3,13.3,4.2,101.45,235.14,,Y,Y
+5,Soya Chunk Power Bowl,Bowl,Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",320.25,306.6,31.2,20.1,14.5,3.0,130.13,237.27,,Y,Y
+6,Fish Tikka Protein Bowl,Bowl,Non-Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",389.72,394.8,37.5,38.3,8.0,2.2,97.96,222.55,189.17,Y,Y
+7,Chickpea Sprout Bowl,Bowl,Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",321.05,241.5,27.0,34.7,10.1,7.5,112.37,255.54,217.21,Y,Y
+8,Mutton Keema Bowl,Bowl,Non-Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",239.74,358.9,36.8,41.9,10.2,3.3,180.77,379.43,322.52,Y,Y
+9,Tofu Stir Fry Bowl,Bowl,Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",222.07,288.5,27.8,27.7,5.8,4.3,181.73,379.11,,Y,N
+10,Chicken Seekh Protein Bowl,Bowl,Non-Veg,"Grilled protein, brown rice/quinoa, mixed vegetables, herb dressing, seeds",377.65,381.7,38.0,31.1,8.5,5.8,81.72,175.66,,Y,N
+11,Grilled Chicken Caesar Salad,Salad,Non-Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",357.25,283.2,29.8,20.4,16.9,7.2,108.41,218.64,,Y,N
+12,Paneer Spinach Salad,Salad,Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",275.35,239.8,23.2,30.9,5.0,3.9,83.32,154.48,,Y,N
+13,Boiled Egg Garden Salad,Salad,Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",305.55,194.6,18.3,43.4,6.1,4.9,85.3,165.92,,Y,N
+14,Tuna Protein Salad,Salad,Non-Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",399.13,253.3,28.8,41.2,10.5,3.3,139.62,274.04,232.93,Y,N
+15,Sprouts & Chickpea Salad,Salad,Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",232.78,169.5,18.2,30.5,6.6,3.3,111.2,227.76,193.6,Y,N
+16,Chicken Quinoa Salad,Salad,Non-Veg,"Fresh greens, grilled protein, cherry tomatoes, cucumber, lemon dressing",388.39,264.1,30.4,42.2,16.2,2.4,102.44,204.74,174.03,Y,N
+17,Whey Protein Banana Smoothie,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",351.23,239.2,25.4,38.5,15.5,3.1,80.06,172.29,,N,N
+18,Peanut Butter Protein Shake,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",295.94,262.9,24.0,18.0,10.2,4.0,152.26,348.18,295.95,Y,N
+19,Mixed Berry Protein Smoothie,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",394.42,172.4,19.7,42.7,10.8,7.2,112.73,276.57,,Y,N
+20,Chocolate Whey Shake,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",267.74,312.2,29.6,20.0,11.3,3.3,99.03,242.24,,Y,N
+21,Mango Protein Lassi,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",394.37,177.0,18.9,27.7,17.4,8.0,141.07,277.83,236.16,Y,N
+22,Coffee Protein Smoothie,Smoothie,Veg,"Whey protein, milk/yogurt, fruits, nuts, no added sugar",234.42,220.4,22.9,37.4,5.7,5.5,140.24,265.66,225.81,Y,N
+23,Grilled Chicken Wrap,Wrap,Non-Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",295.46,286.7,29.3,35.3,8.1,2.7,155.01,354.77,,Y,N
+24,Paneer Tikka Wrap,Wrap,Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",276.91,244.0,25.5,43.0,7.7,6.3,94.12,204.9,,Y,N
+25,Egg Bhurji Wrap,Wrap,Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",378.56,201.3,24.5,28.7,18.0,8.0,72.07,166.85,,Y,N
+26,Tandoori Soya Wrap,Wrap,Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",367.08,212.2,23.3,19.7,15.8,6.2,159.32,290.69,,Y,Y
+27,Chicken Seekh Wrap,Wrap,Non-Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",349.17,280.7,28.1,43.2,6.7,2.7,84.34,174.62,,Y,N
+28,Mutton Kathi Wrap,Wrap,Non-Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",220.64,309.0,31.2,22.9,11.4,7.4,142.61,344.6,,Y,N
+29,Falafel Protein Wrap,Wrap,Veg,"Multigrain roti, grilled filling, fresh veggies, mint chutney",382.71,204.2,20.6,22.9,14.6,5.3,99.71,248.37,211.11,Y,N
+30,Roasted Chana Snack Box,Snack,Veg,"High protein ingredients, minimal oil, portion controlled",381.81,160.7,15.3,32.5,6.9,2.8,118.15,220.9,,Y,N
+31,Boiled Egg Protein Box,Snack,Non-Veg,"High protein ingredients, minimal oil, portion controlled",375.63,140.9,16.1,18.1,15.1,7.3,120.05,243.47,206.95,Y,N
+32,Peanut Protein Bar,Snack,Veg,"High protein ingredients, minimal oil, portion controlled",365.93,155.4,14.9,41.4,5.3,6.4,122.17,226.4,,Y,N
+33,Greek Yogurt Protein Cup,Snack,Veg,"High protein ingredients, minimal oil, portion controlled",363.16,156.5,15.1,18.2,16.3,7.2,105.1,201.16,,N,N
+34,Grilled Chicken Bites,Snack,Non-Veg,"High protein ingredients, minimal oil, portion controlled",396.61,156.6,19.4,20.8,9.3,7.2,164.54,372.38,,Y,N
+35,Sprouts Protein Chaat,Snack,Veg,"High protein ingredients, minimal oil, portion controlled",351.14,130.9,12.1,18.5,17.6,3.1,163.34,371.38,315.67,Y,N
